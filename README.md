@@ -1,10 +1,25 @@
 # PWM0_2025_Raymond
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This is just a template project readme file. Descript briefly your goal and focus here.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- TASKLIST -->
